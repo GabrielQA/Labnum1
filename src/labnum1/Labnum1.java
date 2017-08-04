@@ -15,7 +15,12 @@ public class Labnum1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Menu Gabriel =new Menu();
+        Gabriel.setVisible(true);
+        Gabriel.setLocationRelativeTo(null);
+         
+          
+         
     }
     
 }
